@@ -52,8 +52,8 @@ h2 {font-size:0.341rem; font-weight:normal;}
 #block-workEXP .workbox li{display:inline-block; width:2.2963rem; vertical-align: top;}
 #block-workEXP .workbox li label{display:block;}
 #block-workEXP .workbox .work-place {font-size:0.21rem; font-weight:bold}
-#block-workEXP .workbox .work-position {font-size:0.127rem; color:#000; }
-#block-workEXP .workbox .work-do {margin-top:0.12rem; font-size:0.121rem; color:#000; font-weight:bold;}
+#block-workEXP .workbox .work-position {font-size:0.127rem; }
+#block-workEXP .workbox .work-do {margin-top:0.12rem; font-size:0.121rem; font-weight:bold; font-family:SimSun; }
 
 /* block-prjEXP */
 #block-prjEXP {height:100%; width:100%; background:url(../img/bg2.jpg)no-repeat; background-size:100% 100%;color:#FFFFFF;}
