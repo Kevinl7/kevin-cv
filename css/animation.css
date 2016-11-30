@@ -1,4 +1,4 @@
-#block-firstPage{  position:relative;  animation:block-f 3s;  -webkit-animation:block-f 3s; /* Safari and Chrome */}
+#block-firstPage{  position:relative;  animation:block-f 3s ease 1.5s;  -webkit-animation:block-f 3s ease 1.5s; /* Safari and Chrome */}
 
 
 
