@@ -218,7 +218,7 @@ function initial(e) {
     var lis = ul.children;
     var tbx=0;
     ppr.addEventListener('click',function(){
-        if(tbx==3){
+        if(tbx==4){
             return false;
         }
         else{
