@@ -39,7 +39,7 @@
 
  .page .spn1{
     top:40%; left:10%;
-    animation:spn1 3s ease 2s;
+    animation:spn1 3s;
     -moz-animation:spn1 3s; /* Firefox */
     -webkit-animation:spn1 3s; /* Safari and Chrome */
     -o-animation:spn1 3s; /* Opera */
