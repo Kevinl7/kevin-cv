@@ -242,10 +242,7 @@ function initial(e) {
             lis[tbx].style.display="block";
         }
 
-
-
-
-    })
+})
 
 }
 //添加 load 事件
