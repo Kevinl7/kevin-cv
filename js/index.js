@@ -218,11 +218,11 @@ function initial(e) {
     var lis = ul.children;
     var tbx=0;
     ppr.addEventListener('click',function(){
-        if(tbx==4){
+        if(tbx==3){
             return false;
         }
         else{
-            for(var i =0; i<lis.length-2; i++){
+            for(var i =0; i<lis.length-3; i++){
                 lis[i].style.display="none";
             }
             tbx++;
@@ -235,7 +235,7 @@ function initial(e) {
             return false;
         }
         else{
-            for(var i =0; i<lis.length-2; i++){
+            for(var i =0; i<lis.length-3; i++){
                 lis[i].style.display="none";
             }
             tbx--;
